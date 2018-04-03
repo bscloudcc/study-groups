@@ -1,4 +1,4 @@
-# study-groups
+# ://trainingsredevops.gituhb.io/)tudy-groups
 
 Projeto voltado para pessoas que desejam **montar um grupo de estudos** para aprender em conjunto ou compartilhar seu conhecimento.
 
@@ -6,6 +6,8 @@ Projeto voltado para pessoas que desejam **montar um grupo de estudos** para apr
 
 - [study-grups](#study-groups-)
 	- [O que é o study-groups](#o-que-o-é-study-grupos)
+	- [Grupos Ativos](#grupos-ativos)
+	    - [Acessar lista](/grupos/GRuPOS.md)
 
 <!-- /TOC -->
 
@@ -16,3 +18,11 @@ O study-grupos é uma iniciantiva do [Traininsredevops](https://trainingsredevop
 Estas pessoas irão se organizar para criar um roadmap de estudos do que elas setem necessidade de etudar e seguir essa roadmap. Também serão responsáveis por organizar reuniões, fazer hangouts ou qualquer outro modo para se encontrarem e compartilharem o que aprenderam.
 
 Será necessãrio utilizar algumas ferramentas para testes, por exemplo Virtualbox, Git, GitLab e GitHub. Porém etamos aqui para te ajudar com isso caso você não saiba utilizar essas ferramentas.
+
+## Grupos Ativos
+
+Acesse a [lista de grupos de estudos](/grupos/GRUPOS.md) do Training SRE DevOps e começe agora a decolar sua carreira :)
+
+### Atenção!!!
+
+Após criação do repositório do grupo de estudos a pessoa responsável ***devem abrir um PR*** adicionando o grupo e seu nome como responsável na lista.
