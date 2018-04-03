@@ -1,5 +1,4 @@
-# ://trainingsredevops.gituhb.io/)tudy-groups
-
+# tudy-groups
 Projeto voltado para pessoas que desejam **montar um grupo de estudos** para aprender em conjunto ou compartilhar seu conhecimento.
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
