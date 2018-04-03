@@ -7,6 +7,9 @@ Projeto voltado para pessoas que desejam **montar um grupo de estudos** para apr
 	- [O que é o study-groups](#o-que-o-é-study-grupos)
 	- [Grupos Ativos](#grupos-ativos)
 	    - [Acessar lista](/grupos/GRUPOS.md)
+	- [Por que criar um grupo de estudos](#por-que-criar-um-grupo-de-estudos)
+	- [Uma pessoa do grupo sumiu](#uma-pessoa-do-grupo-sumiu)
+	- [Já aprendi de tudo, agora quero ir para o mercado de trabalho](#ja-aprendi-de-tudo-agora-quero-ir-para-o-mercado-de-trabalho)
 
 <!-- /TOC -->
 
@@ -25,6 +28,30 @@ Acesse a [lista de grupos de estudos](/grupos/GRUPOS.md) do Training SRE DevOps 
 ### Atenção!!!
 
 Após criação do repositório do grupo de estudos a pessoa responsável ***devem abrir um PR*** adicionando o grupo e seu nome como responsável na lista.
+
+## Por que criar um grupo de estudos
+
+As pessoas se sentem mais motivados quando estão em grupo fazendo algo em comum.
+
+Como quando você quer praticar algum esporte e sente mais moviticação quando tem outras pessoas fazerndo o mesmo.
+
+[Aristóteles: por que vivemos coletivamente?](http://www.tribunapr.com.br/noticias/aristoteles-por-que-vivemos-coletivamente/).
+
+Você pode criar um grupo para se motivar a estudar ou para ajudar outras pessoas que precisam.
+
+## Um pessoa do grupo sumiu
+
+Não fique sem estudar por isso.
+
+Convide outra pessoa para participar.
+
+## Já aprendi de tudo, agora quero ir para o mercado de trabalho
+
+Você pode utilizar alguns recursos para procurar seu primeiro emprego ou direcionamento de carreira:
+
+### Observação!!
+
+Ainda organizando os links 
 
 ---
 
