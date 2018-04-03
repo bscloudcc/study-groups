@@ -25,3 +25,11 @@ Acesse a [lista de grupos de estudos](/grupos/GRUPOS.md) do Training SRE DevOps 
 ### Atenção!!!
 
 Após criação do repositório do grupo de estudos a pessoa responsável ***devem abrir um PR*** adicionando o grupo e seu nome como responsável na lista.
+
+---
+
+Todo conhecimento deveria ser compartilhado.
+
+Devemos aprender, praticar e ensinar. Essa é o ciclo para aprendemos sempre mais.
+
+A troca do conhecimento é a unica forma de expandirmos o mesmo. - Isaac Newton
