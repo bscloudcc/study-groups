@@ -6,7 +6,7 @@ Projeto voltado para pessoas que desejam **montar um grupo de estudos** para apr
 - [study-grups](#study-groups-)
 	- [O que é o study-groups](#o-que-o-é-study-grupos)
 	- [Grupos Ativos](#grupos-ativos)
-	    - [Acessar lista](/grupos/GRuPOS.md)
+	    - [Acessar lista](/grupos/GRUPOS.md)
 
 <!-- /TOC -->
 
