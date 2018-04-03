@@ -8,6 +8,10 @@ Projeto voltado para pessoas que desejam **montar um grupo de estudos** para apr
 	- [Grupos Ativos](#grupos-ativos)
 	    - [Acessar lista](/grupos/GRUPOS.md)
 	- [Por que criar um grupo de estudos](#por-que-criar-um-grupo-de-estudos)
+	- [Como funciona](#como-funciona)
+	- [O que é preciso para nascer um grupo de estudos](#o-que-é-preciso-para-nascer-um-grupo-de-estudos)
+	- [Criando o repositório do grupo](#criando-o-repositório-do-grupo)
+	- [Como funcionam os estudos](#como-funcionam-os-estudos)
 	- [Uma pessoa do grupo sumiu](#uma-pessoa-do-grupo-sumiu)
 	- [Já aprendi de tudo, agora quero ir para o mercado de trabalho](#ja-aprendi-de-tudo-agora-quero-ir-para-o-mercado-de-trabalho)
 
@@ -38,6 +42,48 @@ Como quando você quer praticar algum esporte e sente mais moviticação quando 
 [Aristóteles: por que vivemos coletivamente?](http://www.tribunapr.com.br/noticias/aristoteles-por-que-vivemos-coletivamente/).
 
 Você pode criar um grupo para se motivar a estudar ou para ajudar outras pessoas que precisam.
+
+## Como Funciona
+
+O fluxo de criação e organização de um grupo de estudo é:
+
+- Uma pessoa deve abrir uma issus informando que deseja criar um grupo de estudos
+- Esta pessoa deve divulgar a issue em nosso grupo.
+- As pessoas interessadas no grupo de estudos entrarão em contato seja pela issue ou pela **thread** aberta no slack e o grupo irá começar a se formar
+- Assim que tiver mais de 5 pessoas deve-ser avisar alguma das pessoas da organização (contatos abaixo) para que criem o canal do grupo de estudos
+- O proprio grupo deve definir o que e como vai estudar (um roadmap de estudos)
+- A pessoa que ficou responsável pelo grupo deverá criar um repositório ([como criar o repositório](https://github.com/trainingsredevops/study-group/#criando-o-repositorio-do-grupo)) com informações e o roadmap do grupo
+- A pessoa que ficou responsável pelo grupo deverá manter o repositório atualizado e o canal no Slack organizado
+
+Para chamar as pessoas responsáveis pela org para a criação do canal do grupo de estudos você deve digitar `@core` no thread da formação do grupo de estudos.
+
+Caso não tenha sido definido através de um thread, basta chamar qualquer uma destas pessoas:
+
+@agnaldom
+
+## O que é preciso para nascer um grupo de estudos
+
+Tudo o que é necessário é um pessoa (ou mais pessoas) que possa ficar responsável por direcionar o grupo e pelo menos 5 pessoas para estudarem juntas.
+
+Direcionar aqui **não é ensinar**. Você não precisa ser expert em uma coisa para criar um grupo de estudos sobre ela. Direcionar, em nosso contexto, é manter o grupo organizado, adicional as pautas e atas de reunião repositório do grupo e manter o repositório do grupo atualizado.
+
+Ex.:
+- [Grupo de estudos Docker](https://github.com/trainingsredevops/docker-study-group)
+
+Esta pessoa também será responsável por master o canal do grupo em nosso Slack organizado.
+
+## Criando o repositório do grupo
+
+Para criar o repositório basta usar este [template](https://github.com/trainingsredevops/template-study-group).
+
+## Como funcionm os estudos
+
+Os grupos devem se organizar **entre eles** para combinar horários de estudos, conteúdos a ser estudado, formato de estudos, etc. Está tudo em suas mãos!
+**Dica**
+
+**Uma boa maneira de estudar é:** cada semana um membro do grupo de estudos junta o máximo de informaçãos sobre um assunto e transmite para a galera.
+
+Alguns materias de estudos podem ser encontrados [aqui](github/material-de-apaio.md)([em construção], você pode ajudar).
 
 ## Um pessoa do grupo sumiu
 
